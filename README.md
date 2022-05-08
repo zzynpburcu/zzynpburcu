@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **zeynepkayhan7@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mOXQPwYOlFsPC4sAc_OVgCcbCNNsMYDt/view?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" alt="resume" height="10" width="20" /></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nkivHF641uEoK61s1j6MAaOjfKjUgXLU/view?usp=sharing" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" alt="resume" height="10" width="20" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
