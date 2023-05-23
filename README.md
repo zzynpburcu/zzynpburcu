@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently learning on Laravel Projects.
+- 🔭 I’m currently learning on .Net Core Projects.
 
 <!--- 👨‍💻 My projects are available at [https://baris-kayhan-portfolio.netlify.app](https://baris-kayhan-portfolio.netlify.app) -->
 
