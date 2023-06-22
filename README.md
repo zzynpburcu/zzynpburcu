@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzynpburcu&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepkayhan" /> </p>
 
 
-- 🔭 I’m currently working on [Phone Directory Console App](https://github.com/zzynpburcu/.Net-Core-Patika/tree/main/Phone-Directory-Console-App)
+- 🔭 I’m currently working on [Book Store App](https://github.com/zzynpburcu/BookStoreApp)
 
 - 🌱 I’m currently learning **.Net Core.**
 
